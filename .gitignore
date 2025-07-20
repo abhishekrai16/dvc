@@ -1,2 +1,4 @@
-/data
-/.dvc
+data/
+.dvc/
+.dvcignore
+.DS_Store
